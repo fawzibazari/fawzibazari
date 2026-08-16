@@ -1,5 +1,5 @@
 ### Hi there 👋
-One day I hope to be the Hokage of developers, it's a promise from me to the world ✌️
+I'm a backend software engineer at implicity, doing some C at the moment and interested in low level stuff
 <!--
 **fawzibazari/fawzibazari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
